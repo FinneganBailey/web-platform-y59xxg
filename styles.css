@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  position: relative;
+  text-align: center;
+  top: ;
+}
+
+li {
+  box-sizing: border-box;
+  display: inline-block;
+  border-right: 1px solid #000;
+  border-left: 1px solid #000;
+  width: 16.6%;
+  margin: 10px 0;
+  font-family: Bebas Neue;
+}
+
+ul {
+  text-align: center;
+}
+
+a {
+  color: #000;
+  text-decoration: none;
+}
+
+a:hover {
+  color: grey;
+}
+
+div.xboxLogo {
+  background-image: url('');
+}
